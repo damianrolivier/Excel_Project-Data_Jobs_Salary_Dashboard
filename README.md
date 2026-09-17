@@ -7,7 +7,7 @@ This portfolio project demonstrates how I used **Microsoft Excel to transform jo
 The project combines two complementary Excel projects:
 
 1. **Salary Dashboard** — the primary project included in this GitHub repository.
-2. **Data Jobs Salary Analysis** — an additional analysis project showcasing Power Query, PivotTables, charts, Excel functions, and the Excel Data Model. The workbook itself is intentionally not included in the repository.
+2. **Data Jobs Salary Analysis** — an additional analysis project showcasing Power Query, PivotTables, charts, Excel functions, and the Excel Data Model.
 
 Together, the projects demonstrate an end-to-end workflow from **raw data preparation → analysis → modelling → visualization → interactive reporting**.
 
@@ -218,7 +218,7 @@ This adds a **job-demand dimension** to the salary analysis.
 
 The second project extends the dashboard into a broader analytical workflow.
 
-The workbook is intentionally **not included in the GitHub repository**, but the analysis and screenshots are included here to demonstrate the additional work completed.
+Analysis and screenshots are included here to demonstrate the additional work completed.
 
 ---
 
